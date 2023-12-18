@@ -26,7 +26,7 @@ aptos account fund-with-faucet --account YOUR_ORIGINAL_ACCOUNT --amount 10000000
 
 
 
-3. Create a resource account for `contract`
+3. Create a resource account for `smart-contract`
 ```shell
 aptos move run --function-id '0x1::resource_account::create_resource_account_and_fund' --args 'string:reminder' 'hex:YOUR_ORIGINAL_ACCOUNT' 'u64:10000000'
 ```
