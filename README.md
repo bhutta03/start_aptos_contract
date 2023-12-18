@@ -65,7 +65,7 @@ profiles:
     rest_url: "https://fullnode.testnet.aptoslabs.com"
     faucet_url: "https://faucet.testnet.aptoslabs.com"
 
-  todo:
+  smart-contract:
     private_key: "0x1e01c30f82f1b2383825f0ec380c00eb9318d7607fc7a36be4af0249kfabea54"
     public_key: "0x176464e023aa25fedc021714a5f8ccf375b2352cc3c49707ead5007ce4l5c19e"
     account: 9164c6c42d7ef611379d09d598e9b9e0cdc82b84c5d78bdce7d2acf9aae4affc
