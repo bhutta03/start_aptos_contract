@@ -99,5 +99,5 @@ aptos move compile
 
 8. Publish
 ```shell
-aptos move publish --profile todolist
+aptos move publish --profile NAME-OF-YOUR-CONTRACT-MODULE
 ```
