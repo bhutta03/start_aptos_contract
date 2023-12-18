@@ -1,5 +1,6 @@
 # start_aptos_contract
-An example to start smart contract
+An example to start smart contract.
+
 One thing to consider, if you are using windows sub-system for linux, always update wsl1 to wsl2 for aptos.
 ## Usage
 
